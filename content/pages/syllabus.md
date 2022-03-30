@@ -32,7 +32,7 @@ This course studies state-of-the-art computer-aided design methodologies for mul
 Prerequisites for this course are:
 
 *   mastery of classical feedback concepts for single-input single output (SISO) systems ([6.302](/courses/6-302-feedback-systems-spring-2007) or equivalent)
-*   an appropriate first year graduate control course (either [6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011) or [16.30](/courses/16-30-feedback-control-systems-fall-2010/))
+*   an appropriate first year graduate control course (either [6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011) or [16.30](/courses/16-30-feedback-control-systems-fall-2010))
 
 Information Resources and Literature
 ------------------------------------
